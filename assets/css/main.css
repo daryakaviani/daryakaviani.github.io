@@ -72,6 +72,14 @@ input, select, textarea {
 	appearance: none;
 }
 
+/*centering an image*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
 
 /* The Modal (background) */
 .modal {
