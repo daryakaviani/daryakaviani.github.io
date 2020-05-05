@@ -7,6 +7,45 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+.alert-box {
+	background-color: #e79898;
+	color: rgb(0, 0, 0);
+	font-size: 18px;
+	line-height: 23px;
+	padding: 13px 16px;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.alert-box .badge {
+	background-color: #f5372a;
+	border-radius: 3px;
+	color: #fff;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding: 3px 5px 3px 4px;
+	font-weight:bold;
+	text-transform: uppercase;
+}
+
+a:link {
+	color: rgb(128, 0, 28);
+	background-color: transparent;
+	text-decoration: none;
+  }
+  
+a:visited {
+	color: pink;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  
+a:active {
+	color: rgb(255, 0, 242);
+	background-color: transparent;
+	text-decoration: underline;
+  }
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
